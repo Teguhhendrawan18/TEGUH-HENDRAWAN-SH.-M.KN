@@ -1,0 +1,6 @@
+{
+  "name": "Arsip Notaris & PPAT Teguh Hendrawan",
+  "description": "Sistem Manajemen Arsip Berkas Digital & Register Akta Kantor Notaris & PPAT Teguh Hendrawan, S.H., M.Kn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
